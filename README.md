@@ -15,56 +15,101 @@ La empresa EdTech Algetec+ en colaboración con el Tecnológico de Monterrey des
 - [Tecnologías](#seccion-6)
 - [Colaboradores](#seccion-7)
 
+<div align="center">
+  <img src="images/1.png" alt="warning">
+</div>
 
-## Componentes <a name="seccion-1"></a>
+## Componentes <a name="seccion-1"></a> 👩‍💻
 :small_red_triangle_down: ***Bomba centrífuga trifásica***
+
+<div align="center">
+  <img src="images/2.png" alt="warning">
+</div>
 
 **Uso en el sistema:**
 Este motor eléctrico se encarga de desplazar el flujo de agua guardado en el almacén al sistema, este flujo se mueve por medio de un sistema de tuberías.
 
 :small_red_triangle_down: ***Vaso de Presión***
 
+<div align="center">
+  <img src="images/3.png" alt="warning">
+</div>
+
 **Uso en el sistema:**
 Se utiliza para evitar que el sistema presente variaciones abruptas de presión.
 
 :small_red_triangle_down: ***Sensor de caudal***
+
+<div align="center">
+  <img src="images/4.png" alt="warning">
+</div>
 
 **Uso en el sistema:** 
 Este sensor indica la medición del caudal que se está recorriendo por la tubería. Cuando se hace la lectura, este sensor envía una señal al dispositivo encargado de leer la señal
 
 :small_red_triangle_down: ***Sensor de nivel láser***
 
+<div align="center">
+  <img src="images/5.png" alt="warning">
+</div>
+
 **Uso en el sistema:** 
 Este dispositivo emite un láser que refleja el flujo, cuando capta la señal que él mismo utiliza para distinguir el nivel de flujo dentro del tanque.
 
 :small_red_triangle_down: ***Manómetro***
+
+<div align="center">
+  <img src="images/6.png" alt="warning">
+</div>
 
 **Uso en el sistema:** 
 Sirve para medir la presión dentro de la tubería. Sus unidades son en psi y kgf/cm2.
 
 :small_red_triangle_down: ***Sensor de nivel capacitivo***
 
+<div align="center">
+  <img src="images/7.png" alt="warning">
+</div>
+
 **Uso en el sistema:** 
 Este sensor identifica y envía una señal a la computadora para informar qué el fluido ha alcanzado el punto donde se ha instalado.
 
 :small_red_triangle_down: ***Sensor de presión***
+
+<div align="center">
+  <img src="images/8.png" alt="warning">
+</div>
 
 **Uso en el sistema:** 
 Mide la presión que hay dentro de la tubería.
 
 :small_red_triangle_down: ***Sensor de temperatura***
 
+<div align="center">
+  <img src="images/9.png" alt="warning">
+</div>
+
 **Uso en el sistema:** 
 Su función es medir la temperatura del fluido en el tanque.
 
-:small_red_triangle_down: ***Sensor de temperatura***
+:small_red_triangle_down: ***Rotámetro***
+
+<div align="center">
+  <img src="images/12.png" alt="warning">
+</div>
 
 **Uso en el sistema:** 
 Este dispositivo se encarga de medir el caudal; mediante el desplazamiento del fluido y haciendo que el cono (interno) de medición se desplace. Sirve para identificar cuántos litros por hora están siendo transportados a través del rotámetro.
 
-## Indicaciones de seguridad para prevenir accidentes <a name="seccion-2"></a>⚠️
+## Indicaciones de seguridad para prevenir accidentes <a name="seccion-2"></a>⚠️ 🚧
 
-## Diagrama de tuberías <a name="seccion-3"></a>🚧
+![Warning](images/10.png)
+
+## Diagrama de tuberías <a name="seccion-3"></a> 🔌
+
+<div align="center">
+  <img src="images/11.png" alt="warning">
+</div>
 
 ## Prácticas <a name="seccion-4"></a>🛠️
 
