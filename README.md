@@ -1,4 +1,6 @@
-# Laboratorio móvil de modelación y control
+<h1 align="center">Laboratorio móvil de modelación y control</h1>
+<h3 align="center">ITESM - ALGETEC</h1>
+
 
 ## Conócenos :dvd:
 La empresa EdTech Algetec+ en colaboración con el Tecnológico de Monterrey desarrollan un proyecto de investigación educativa, que proporciona una amplia variedad de opciones experimentales (virtual, presencial y combinaciones) con el propósito de crear una metodología de enseñanza - aprendizaje que potencie el nivel de competencias ingenieriles alcanzado por los estudiantes. La misión de este laboratorio se centra en formar a los estudiantes, principalmente a carreras relacionadas con control de procesos y automatización. Sin embargo, se busca hacer que la plataforma sea accesible para otras carreras con interés en conocer nuevas herramientas de modelación matemática, instrumentación (sensores, actuadores y señales), una pequeña inducción al control e incentivar a la comunidad a explorar sobre el área de control y sus aplicaciones en la actualidad.
