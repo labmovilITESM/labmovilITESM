@@ -138,6 +138,9 @@ En esta sección están las personas que han sido colaboradores dentro del repos
 
 - Ricardo Garcia Sedano
 
+<div align="center">
+  <img src="images/13.png" alt="warning">
+</div>
 
 
 <!---
