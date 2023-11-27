@@ -113,7 +113,7 @@ Este dispositivo se encarga de medir el caudal; mediante el desplazamiento del f
 
 ## Prácticas <a name="seccion-4"></a>🛠️
 
-1. Práctica 1
+1. ![Práctica 1](https://github.com/labmovilITESM/Practica1/tree/main)
 
 ## Video <a name="seccion-5"></a>📹
 
