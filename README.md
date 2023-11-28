@@ -139,7 +139,9 @@ En esta sección están las personas que han sido colaboradores dentro del repos
 
 - Marybeth Flores Vázquez - Profesora en el Tecnológico de Monterrey Campus Puebla 👩‍🏫
   
-- Ricardo Garcia Sedano
+- Ricardo Garcia Sedano - Estudiante en el Tecnológico de Monterrey Campus Puebla 👩‍🏫
+
+- Jorge Alberto Quiroz Wong - Estudiante en el Tecnológico de Monterrey Campus Puebla 👩‍🏫
 
 ## Referencias 
 
