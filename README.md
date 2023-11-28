@@ -138,11 +138,20 @@ En esta sección están las personas que han sido colaboradores dentro del repos
 - Debbie Crystal Hernández Zárate - Profesora en el Tecnológico de Monterrey Campus Puebla 👩‍🏫
 
 - Marybeth Flores Vázquez - Profesora en el Tecnológico de Monterrey Campus Puebla 👩‍🏫
-
+  
 - Ricardo Garcia Sedano
 
-## Referencias
+## Referencias 
 
+- ![Bancada Didáctica de Control de Procesos](https://www.algetec.com.br/br/bancada-didatica-de-controle-de-processos-industriais-vazao-nivel-temperatura-e-pressao-versao-premium)
+
+- ![Bomba Centrífuga](https://www.dicoculsa.com.mx/product-page/bomba-centrifuga-0-5-hp)
+
+- ![Sensor de Caudal]([https://www.dicoculsa.com.mx/product-page/bomba-centrifuga-0-5-hp](https://articulo.mercadolibre.com.mx/MLM-603733880-sensor-de-flujo-de-agua-caudalimetro-yf-s201-_JM?matt_tool=42293996&matt_word=&matt_source=google&matt_campaign_id=19660263509&matt_ad_group_id=143232865102&matt_match_type=&matt_network=g&matt_device=c&matt_creative=647515868142&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=278747651&matt_product_id=MLM603733880&matt_product_partition_id=1939579762936&matt_target_id=pla-1939579762936&gad_source=1&gclid=Cj0KCQiAjMKqBhCgARIsAPDgWlxUJWVMhxFqGcdAb3X9cfuPH6jTMMl-4PNzVwuyFbNn_LGsfhrR96IaAl57EALw_wcB)https://articulo.mercadolibre.com.mx/MLM-603733880-sensor-de-flujo-de-agua-caudalimetro-yf-s201-_JM?matt_tool=42293996&matt_word=&matt_source=google&matt_campaign_id=19660263509&matt_ad_group_id=143232865102&matt_match_type=&matt_network=g&matt_device=c&matt_creative=647515868142&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=278747651&matt_product_id=MLM603733880&matt_product_partition_id=1939579762936&matt_target_id=pla-1939579762936&gad_source=1&gclid=Cj0KCQiAjMKqBhCgARIsAPDgWlxUJWVMhxFqGcdAb3X9cfuPH6jTMMl-4PNzVwuyFbNn_LGsfhrR96IaAl57EALw_wcB)
+
+- ![Rotámetro](https://www.amazon.com.mx/pl%C3%A1stico-rot%C3%A1metro-100-1000L-Medidor-l%C3%ADquida/dp/B07F1ZJ6XN)
+
+- ![Sensor de Temperatura](https://www.amazon.com.mx/Johnson-Controls-A99BB-200C-Temperature-Sensor/dp/B008HOXFZS/ref=asc_df_B008HOXFZS/?tag=gledskshopmx-20&linkCode=df0&hvadid=450975640238&hvpos=&hvnetw=g&hvrand=10608471906184081736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041292&hvtargid=pla-584529698828&psc=1&mcid=55511fa7cf6c35ea99f949a067e18f69)
 
 <!---
 labmovilITESM/labmovilITESM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
