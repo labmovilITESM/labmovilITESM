@@ -154,6 +154,7 @@ En esta sección están las personas que han sido colaboradores dentro del repos
 - ![Rotámetro](https://www.amazon.com.mx/pl%C3%A1stico-rot%C3%A1metro-100-1000L-Medidor-l%C3%ADquida/dp/B07F1ZJ6XN)
 
 - ![Sensor de Temperatura](https://www.amazon.com.mx/Johnson-Controls-A99BB-200C-Temperature-Sensor/dp/B008HOXFZS/ref=asc_df_B008HOXFZS/?tag=gledskshopmx-20&linkCode=df0&hvadid=450975640238&hvpos=&hvnetw=g&hvrand=10608471906184081736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9041292&hvtargid=pla-584529698828&psc=1&mcid=55511fa7cf6c35ea99f949a067e18f69)
+- ![Nota de conecta: Laboratorio Algetec+](https://conecta.tec.mx/es/noticias/puebla/educacion/experimentar-tec-puebla-inaugura-laboratorio-movil-de-mecatronica)
 
 <!---
 labmovilITESM/labmovilITESM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
